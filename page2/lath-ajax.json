@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "563c4fe7297cd10aeb53b007",
+    "no": "1",
+    "nama": "Sandy",
+    "alamat": "Kepanjen",
+    "uang_DP": "3400.000",
+    "merk_Mobil": "Avansa"
+  },
+  {
+    "_id": "563c4fe7c62e81785b406bdf",
+    "no": "2",
+    "nama": "Putri",
+    "alamat": "Malang",
+    "uang_DP": "2000.000",
+    "merk_Mobil": "Trios"
+  },
+  {
+    "_id": "563c4fe73eb17f751dd836e0",
+    "no": "3",
+    "nama": "Anggi",
+    "alamat": "Pasuruan",
+    "uang_DP": "3500.000",
+    "merk_Mobil": "Brio"
+  },
+  {
+    "_id": "563c4fe7d910d70510062402",
+    "no": "4",
+    "nama": "Anjas",
+    "alamat": "Blitar",
+    "uang_DP": "5000.000",
+    "merk_Mobil": "Toyota"
+  },
+  {
+    "_id": "563c4fe7eab012c586bb331f",
+    "no": "5",
+    "nama": "Winda",
+    "alamat": "Ardirejo",
+    "uang_DP": "2300.000",
+    "merk_Mobil": "Suzuki"
+  },
+  {
+    "_id": "563c4fe79364762fe43fbbcb",
+    "no": "6",
+    "nama": "Saputri",
+    "alamat": "Malang",
+    "uang_DP": "6000.0000",
+    "merk_Mobil": "Ertiga"
+  },
+  {
+    "_id": "563c4fe73a8885239528c8d9",
+    "no": "7",
+    "nama": "Qwery",
+    "alamat": "Singosari",
+    "uang_DP": "3400.000",
+    "merk_Mobil": "Viar"
+  },
+  {
+    "_id": "563c4fe7d4622211b5c7dac8",
+    "no": "8",
+    "nama": "Budi",
+    "alamat": "Lamongan",
+    "uang_DP": "6700.000",
+    "merk_Mobil": "Honda"
+  },
+  {
+    "_id": "563c4fe725fc6be689c23aa4",
+    "no": "9",
+    "nama": "Azizah",
+    "alamat": "Sabang",
+    "uang_DP": "5500.000",
+    "merk_Mobil": "Tros"
+  },
+  {
+    "_id": "563c4fe79f2526de1c26d819",
+    "no": "10",
+    "nama": "Astutik",
+    "alamat": "VURBO",
+    "uang_DP": "6700.000",
+    "merk_Mobil": "Yaris"
+  }
+]
